@@ -1,6 +1,7 @@
 # Java-Projects
 A collection of projects ranging from data structures, games, and simple applications using JAVA. 
-
+# JUnit Testing
+The following are some JUnit tests that I have imported from my CS 310 Data Structures class (Written by my professors at GMU) as well as others that I will continually add as I build on this library of projects
 # Style Checker
 The provided cs310code.xml checks for common coding convention mistakes (such as indentation and naming issues). 
 You can use the following to check your style:
